@@ -78,7 +78,7 @@
 - Depositphotos (https://depositphotos.com)
 - Peakpx (https://www.peakpx.com)
 
-[Main Page](./main/web.md)
+[Main Page](./web.md)
 
 
 ## Games 계략
